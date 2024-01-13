@@ -88,4 +88,4 @@ A typical landing page structure includes several key sections. Below is a sugge
 - Use meaningful `id` attributes for sections to enable easy navigation.
 - Keep your HTML clean and semantic for better accessibility and SEO.
 
-Feel free to customize this structure based on your specific needs. Happy coding!
+In the coming week (Week 5), we'll be delving deeper into this and learning more about how to customize this structure based on our specific website's needs. Have a beautiful weekend everybody, and happy coding!
